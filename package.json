@@ -1,6 +1,6 @@
 {
   "name": "fn-wrap",
-  "description": "Wrap functions.",
+  "description": "Function wrapping utility.",
   "keywords": [
     "fn",
     "wrap",
@@ -33,5 +33,8 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/fn-wrap/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/fn-wrap#readme"
+  "homepage": "https://github.com/IonicaBizau/fn-wrap#readme",
+  "dependencies": {
+    "noop6": "^1.0.2"
+  }
 }
