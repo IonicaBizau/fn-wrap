@@ -48,7 +48,7 @@
 
 
 ## :cloud: Installation
-
+You Need Linux
 ```sh
 # Using npm
 npm install --save fn-wrap
