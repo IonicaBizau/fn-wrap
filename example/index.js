@@ -4,11 +4,11 @@ const fnWrap = require("../lib");
 
 
 let originalFn = () => {
-    console.log(42);
+    console.log(2);
 };
 
 let newFn = fnWrap(() => {
-    console.log(43);
+    console.log(3);
 }, originalFn);
 
 newFn();
