@@ -49,11 +49,12 @@
 
 ## :cloud: Installation
 
-```sh
 # Using npm
+```
 npm install --save fn-wrap
-
+```
 # Using yarn
+```
 yarn add fn-wrap
 ```
 
